@@ -12534,24 +12534,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\56ole\\.nuget\\packages\\": {},
+    "C:\\Users\\xavierr\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\56ole\\Desktop\\DojoAssignments\\netCore\\ASP\\survey\\survey.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\surveyForm\\survey.csproj",
       "projectName": "survey",
-      "projectPath": "C:\\Users\\56ole\\Desktop\\DojoAssignments\\netCore\\ASP\\survey\\survey.csproj",
-      "packagesPath": "C:\\Users\\56ole\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\56ole\\Desktop\\DojoAssignments\\netCore\\ASP\\survey\\obj\\",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\surveyForm\\survey.csproj",
+      "packagesPath": "C:\\Users\\xavierr\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\surveyForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\56ole\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\xavierr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"

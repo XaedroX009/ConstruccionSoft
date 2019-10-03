@@ -8,3 +8,14 @@ C:\Users\56ole\Desktop\DojoAssignments\netCore\ASP\survey\bin\Debug\netcoreapp2.
 C:\Users\56ole\Desktop\DojoAssignments\netCore\ASP\survey\bin\Debug\netcoreapp2.0\survey.pdb
 C:\Users\56ole\Desktop\DojoAssignments\netCore\ASP\survey\obj\Debug\netcoreapp2.0\survey.dll
 C:\Users\56ole\Desktop\DojoAssignments\netCore\ASP\survey\obj\Debug\netcoreapp2.0\survey.pdb
+\\Mac\Home\Desktop\surveyForm\bin\Debug\netcoreapp2.0\survey.deps.json
+\\Mac\Home\Desktop\surveyForm\bin\Debug\netcoreapp2.0\survey.runtimeconfig.json
+\\Mac\Home\Desktop\surveyForm\bin\Debug\netcoreapp2.0\survey.runtimeconfig.dev.json
+\\Mac\Home\Desktop\surveyForm\bin\Debug\netcoreapp2.0\survey.dll
+\\Mac\Home\Desktop\surveyForm\bin\Debug\netcoreapp2.0\survey.pdb
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.AssemblyInfo.cs
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.dll
+\\Mac\Home\Desktop\surveyForm\obj\Debug\netcoreapp2.0\survey.pdb
